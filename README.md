@@ -1,4 +1,4 @@
-# HI222Notes
+# HI222Senior
 ---
 In this repo you will find all things related to the senior year of Health Informatics Major in King Faisal University.
 
